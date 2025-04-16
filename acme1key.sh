@@ -1,6 +1,6 @@
 #!/bin/bash
 
-IP=$(curl ipget.net)
+IP=$(wget -qO- http://ip-api.com/line?fields=query)
 
 green(){
     echo -e "\033[32m\033[01m$1\033[0m"
