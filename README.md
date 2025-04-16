@@ -10,9 +10,3 @@ wget -N https://raw.githubusercontent.com/vipmc838/acme/master/acme1key.sh && ch
 
 快捷方式 `bash acme1key.sh`
 
-## 赞助我们
-
-![afdian-MisakaNo.jpg](https://s2.loli.net/2021/12/25/SimocqwhVg89NQJ.jpg)
-
-## 交流群
-[Telegram](https://t.me/misakanetcn)
