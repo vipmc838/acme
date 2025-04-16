@@ -84,7 +84,7 @@ function renew(){
 
 # 更新脚本
 function update(){
-    wget -N https://cdn.jsdelivr.net/gh/Misaka-blog/acme1key@master/acme1key.sh && chmod -R 777 acme1key.sh && bash acme1key.sh
+    wget -N https://raw.githubusercontent.com/vipmc838/acme/master/acme1key.sh && chmod -R 777 acme1key.sh && bash acme1key.sh
 }
 
 # 主菜单
